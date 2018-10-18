@@ -1,2 +1,2 @@
-# XY_web
+# xy_web
 yexiaoyi web
